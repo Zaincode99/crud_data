@@ -1,0 +1,47 @@
+/* Gaya umum */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 0;
+  text-align: justify;
+  color: #000;
+}
+.h {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+}
+
+table {
+  width: fit-content;
+  margin: 10px;
+  margin-right: 60px;
+  padding: 10px;
+}
+table,
+th,
+td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  padding: 10px;
+}
+th,
+td {
+  padding: 10px;
+  background-color: whitesmoke;
+}
+td a {
+  padding: 10px;
+  background-color: whitesmoke;
+  text-align: center;
+}
+.tbl-edit {
+  display: inline;
+  width: fit-content;
+}
+form {
+  margin: 10px;
+  padding: 10px;
+}
