@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T07:38:27.874Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="e3OrlHBKbP7LWnolIWJn" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T08:00:27.441Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_JvNOEeNeoLG4Q5D2acP" version="21.5.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="880" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="704" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4FuRcCXG90elmo3oF2qw-2" value="DIAGRAM KONTEKS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FuRcCXG90elmo3oF2qw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4FuRcCXG90elmo3oF2qw-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="190" as="sourcePoint" />
+            <mxPoint x="550" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FuRcCXG90elmo3oF2qw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FuRcCXG90elmo3oF2qw-3" target="4FuRcCXG90elmo3oF2qw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FuRcCXG90elmo3oF2qw-3" value="0" style="swimlane;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4FuRcCXG90elmo3oF2qw-5" value="Website Profile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;imageWidth=0;imageHeight=240;arcSize=120;absoluteArcSize=1;" vertex="1" parent="4FuRcCXG90elmo3oF2qw-3">
+          <mxGeometry x="45" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FuRcCXG90elmo3oF2qw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="4FuRcCXG90elmo3oF2qw-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="210" as="sourcePoint" />
+            <mxPoint x="350" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FuRcCXG90elmo3oF2qw-7" value="Admin" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4FuRcCXG90elmo3oF2qw-10" value="Mahasiswa" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4FuRcCXG90elmo3oF2qw-13" value="Informasi UKM/UKK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
